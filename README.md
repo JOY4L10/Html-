@@ -1,3 +1,4 @@
+<html>
 <head><title>webpage</title></head>
 <body bgcolor="lavender">
 <b><h1 align="center">WELCOME TO HTML</h1></b>
